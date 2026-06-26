@@ -1,3 +1,3 @@
 # server-performance-stats
 README file
-https://roadmap.sh/sagar150894/server-performance-stats
+https://github.com/sagar150894/server-performance-stats
