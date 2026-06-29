@@ -1,4 +1,1 @@
-git clone https://github.com/sagartharun/devops-lab.git
-cd server-performance-stats
-chmod +x server-stats.sh
-./server-stats.sh
+
